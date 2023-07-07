@@ -45,7 +45,7 @@ function draw() {
   
   // Para a animação quando o contador de iterações for igual a 2
   if (contador_de_iteracoes == 2) {
-    noLoop();
+    //noLoop();
   }
 }
 
